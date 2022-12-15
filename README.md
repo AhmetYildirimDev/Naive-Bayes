@@ -28,6 +28,8 @@ Complement naive bayes: Bu çeşit, verilen bir olayın sınıflandırılması i
 
 Bu çeşitler, naive bayes yöntemini farklı veri tipleri için uyarlar ve bu sayede daha doğru tahminler yapmayı mümkün kılar.
 
+
+
 # Kaynakça
 Scikit-learn: https://scikit-learn.org/stable/modules/naive_bayes.html
 
