@@ -1,5 +1,7 @@
 # Naive-Bayes
-Naive bayes makine öğrenmesinin bir alt sınıfıdır.Denetimli öğrenme başlığı altında yer alır . Bir probleme olasılıksal yaklaşı yapmamıza yardımcı olur. İsmini Naïve Bayes sınıflandırıcısı adını İngiliz matematikçi Thomas Bayes'ten (yak. 1701 - 7 Nisan 1761) almaktadır![Bayes'_Theorem_MMB_01](https://user-images.githubusercontent.com/76650271/207851006-f7263974-3238-458b-bd90-be7be65b95a9.jpg)
+Naive bayes makine öğrenmesinin bir alt sınıfıdır.Denetimli öğrenme başlığı altında yer alır . Bir probleme olasılıksal yaklaşı yapmamıza yardımcı olur. İsmini Naïve Bayes sınıflandırıcısı adını İngiliz matematikçi Thomas Bayes'ten (yak. 1701 - 7 Nisan 1761) almaktadır
+
+![Bayes'_Theorem_MMB_01](https://user-images.githubusercontent.com/76650271/207851006-f7263974-3238-458b-bd90-be7be65b95a9.jpg)
 
 
 # Bayes teoremi
